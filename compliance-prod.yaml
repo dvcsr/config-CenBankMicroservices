@@ -1,7 +1,7 @@
 build:
   version: "compliance 1.1.0"
 
-account:
+compliance:
   detail: "CenBank All rights reserved. WARNING: Limited for internal use only"
   contactDetails:
     name: "Cenbank"
