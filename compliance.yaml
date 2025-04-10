@@ -1,7 +1,7 @@
 build:
   version: "compliance 1.1.0 LOCAL CONFIG"
 
-account:
+compliance:
   detail: "Account microservices - current PIC : Jane Doe"
   contactDetails:
     name: "Jane Doe - Digital Transformation Lead"
